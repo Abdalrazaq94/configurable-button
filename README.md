@@ -8,10 +8,10 @@ The User Interface (DOM & Styles) are provided.  You need to add user interactio
 
 A helpful project to study: __Summary & Details__
 
-* [stepped source code](https://github.com/HackYourFutureBelgium/state/tree/master/example-projects/summary-details-stepped)
-* [stepped live demos](https://hackyourfuture.be/state/example-projects/summary-details-stepped)
-* [separated source code](https://github.com/hackyourfuturebelgium/state/tree/master/example-projects/summary-details-separated)
-* [separated live demo](https://hackyourfuture.be/state/example-projects/summary-details-separate)
+* [stepped (source code)](https://github.com/HackYourFutureBelgium/state/tree/master/example-projects/summary-details-stepped)
+* [stepped (live demos)](https://hackyourfuture.be/state/example-projects/summary-details-stepped)
+* [separated (source code)](https://github.com/hackyourfuturebelgium/state/tree/master/example-projects/summary-details-separated)
+* [separated (live demo)](https://hackyourfuture.be/state/example-projects/summary-details-separated)
 
 And supporting exercises/slides:
 
